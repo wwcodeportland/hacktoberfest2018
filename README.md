@@ -80,14 +80,18 @@ More information on [GatsbyJS.org](https://www.gatsbyjs.org/tutorial/part-one)
 
 ## Getting started in this Repo
 
-Install the starter using Gatsby Cli `gatsby new` command.
+Fork this repo, and clone it to your desktop using HTTPS:
 
-```text
-gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/greglobinski/gatsby-starter-hero-blog.git
+```
+git clone https://github.com/[YOUR USERNAME]/hacktoberfest2018.git
 ```
 
-Go into the newly created directory and run
+Once the site is cloned down, enter the directory and open it in the code editor of your choice (we recommend using VS Code). Run `npm i`.
+
+Once done, run:
 
 ```text
 gatsby develop
 ```
+
+to see a working dev version of the website and start editing!

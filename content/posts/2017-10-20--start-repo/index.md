@@ -26,12 +26,18 @@ git clone https://github.com/[YOUR USERNAME]/hacktoberfest2018.git
 
 Once the site is cloned down, enter the directory and open it in the code editor of your choice (we recommend using VS Code). Run `npm i`.
 
+Once done, run:
+
+```
+gatsby develop
+```
+
+to see a working dev version of the website and start editing!
+
 ### Contributing
 
-- Fork the repo
+- Find an issue that you want to work on.
 - Create your feature branch (`git checkout -b username/branchname`)
 - Commit your changes (`git commit -am 'Added some puppy pictures to About'`)
 - Push to the branch (`git push origin username/branchname`)
 - Create a new Pull Request
-
-
