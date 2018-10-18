@@ -2,8 +2,8 @@ module.exports = {
   siteTitle: "Hacktoberfest - Women Who Code PDX", // <title>
   shortSiteTitle: "Hacktoberfest - Women Who Code PDX", // <title> ending for posts and pages
   siteDescription: "Hacktoberfest - Women Who Code PDX",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
-  // pathPrefix: "",
+  siteUrl: "http://womenwhocode.github.io",
+  pathPrefix: "/hacktoberfest2018",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
