@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Hacktoberfest - Women Who Code PDX]]></title><description><![CDATA[Hacktoberfest - Women Who Code PDX]]></description><link>http://womenwhocode.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Oct 2018 05:26:50 GMT</lastBuildDate><item><title><![CDATA[Getting Started with Hacktoberfest]]></title><description><![CDATA[#Hacktoberfest 2018 Thanks for participating in Hacktoberfest! You may be feeling overwhelmed and wondering where to get started, so let’s…]]></description><link>http://womenwhocode.github.io/start-hacktoberfest/</link><guid isPermaLink="false">http://womenwhocode.github.io/start-hacktoberfest/</guid><content:encoded>&lt;h1&gt;#Hacktoberfest 2018&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Hacktoberfest - Women Who Code PDX]]></title><description><![CDATA[Hacktoberfest - Women Who Code PDX]]></description><link>http://womenwhocode.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Oct 2018 05:41:36 GMT</lastBuildDate><item><title><![CDATA[Getting Started with Hacktoberfest]]></title><description><![CDATA[#Hacktoberfest 2018 Thanks for participating in Hacktoberfest! You may be feeling overwhelmed and wondering where to get started, so let’s…]]></description><link>http://womenwhocode.github.io/start-hacktoberfest/</link><guid isPermaLink="false">http://womenwhocode.github.io/start-hacktoberfest/</guid><content:encoded>&lt;h1&gt;#Hacktoberfest 2018&lt;/h1&gt;
 &lt;p&gt;Thanks for participating in Hacktoberfest!&lt;/p&gt;
 &lt;p&gt;You may be feeling overwhelmed and wondering where to get started, so let’s start with the basics:&lt;/p&gt;
 &lt;h3&gt;Sign Up!&lt;/h3&gt;
@@ -50,9 +50,12 @@
 &lt;p&gt;HTTPS:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git clone https://github.com/[YOUR USERNAME]/hacktoberfest2018.git&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Once the site is cloned down, enter the directory and open it in the code editor of your choice (we recommend using VS Code). Run &lt;code class=&quot;language-text&quot;&gt;npm i&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Once done, run:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;to see a working dev version of the website and start editing!&lt;/p&gt;
 &lt;h3&gt;Contributing&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Fork the repo&lt;/li&gt;
+&lt;li&gt;Find an issue that you want to work on.&lt;/li&gt;
 &lt;li&gt;Create your feature branch (&lt;code class=&quot;language-text&quot;&gt;git checkout -b username/branchname&lt;/code&gt;)&lt;/li&gt;
 &lt;li&gt;Commit your changes (&lt;code class=&quot;language-text&quot;&gt;git commit -am &amp;#39;Added some puppy pictures to About&amp;#39;&lt;/code&gt;)&lt;/li&gt;
 &lt;li&gt;Push to the branch (&lt;code class=&quot;language-text&quot;&gt;git push origin username/branchname&lt;/code&gt;)&lt;/li&gt;
@@ -97,51 +100,7 @@ gatsby-cli is the exact name our desired package is registered with on the npm r
 &lt;li&gt;Run gatsby —version.&lt;/li&gt;
 &lt;li&gt;Run gatsby —help.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;If successfully installed, running &lt;code class=&quot;language-text&quot;&gt;gatsby --version&lt;/code&gt; should return a version number, and running &lt;code class=&quot;language-text&quot;&gt;gatsby --help&lt;/code&gt; will show different commands available to you using the gatsby-cli tool.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Good friends, good books, and a sleepy conscience]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>http://womenwhocode.github.io/good-friends/</link><guid isPermaLink="false">http://womenwhocode.github.io/good-friends/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/hacktoberfest2018/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.6444740346205%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQME/9oADAMBAAIQAxAAAAHMg74hCT//xAAYEAEBAAMAAAAAAAAAAAAAAAABABARIf/aAAgBAQABBQIMciW3f//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8BU0jP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPwE3F//EABYQAAMAAAAAAAAAAAAAAAAAAAARIP/aAAgBAQAGPwIU/wD/xAAXEAEBAQEAAAAAAAAAAAAAAAABABFR/9oACAEBAAE/Iac3qSOTJe3/2gAMAwEAAgADAAAAEOjf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAEDAQE/EEbNcY//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhQf/aAAgBAgEBPxBdqJR//8QAGxABAAIDAQEAAAAAAAAAAAAAAQARIUFRcTH/2gAIAQEAAT8QDAUewUjO3CLbbPIqD8YK2L7U0hP/2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-        alt=&quot;unsplash.com&quot;
-        title=&quot;&quot;
-        src=&quot;/hacktoberfest2018/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg&quot;
-        srcset=&quot;/hacktoberfest2018/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-dce19.jpg 200w,
-/hacktoberfest2018/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-c1413.jpg 400w,
-/hacktoberfest2018/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-78f2b.jpg 800w,
-/hacktoberfest2018/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-ab4c4.jpg 1200w,
-/hacktoberfest2018/static/photo-1500531279542-fc8490c8ea4d-78290bd53780b98f032fc37bba6c9cf8-e933e.jpg 1502w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-      /&gt;
-    &lt;/span&gt;
-  &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
-&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
-&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[There are only two ways to live your life.]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>http://womenwhocode.github.io/there-are-only-two/</link><guid isPermaLink="false">http://womenwhocode.github.io/there-are-only-two/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;If successfully installed, running &lt;code class=&quot;language-text&quot;&gt;gatsby --version&lt;/code&gt; should return a version number, and running &lt;code class=&quot;language-text&quot;&gt;gatsby --help&lt;/code&gt; will show different commands available to you using the gatsby-cli tool.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Using Git]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>http://womenwhocode.github.io/using-git/</link><guid isPermaLink="false">http://womenwhocode.github.io/using-git/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/hacktoberfest2018/static/photo-1451324119451-db0ac857463c-e7eccf623b741964e3b67cccaab27b9a-f16ff.jpg&quot;
@@ -184,7 +143,7 @@ gatsby-cli is the exact name our desired package is registered with on the npm r
 &lt;h3&gt;Aenean bibendum iaculis mi, nec blandit lacus interdum vitae&lt;/h3&gt;
 &lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit&lt;/p&gt;
 &lt;h3&gt;Donec hendrerit laoreet risus eget adipiscing.&lt;/h3&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Imperfection is beauty, madness is genius]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>http://womenwhocode.github.io/imperfection-is-beauty/</link><guid isPermaLink="false">http://womenwhocode.github.io/imperfection-is-beauty/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
+&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contributors]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>http://womenwhocode.github.io/contributors/</link><guid isPermaLink="false">http://womenwhocode.github.io/contributors/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;bibendum&lt;/a&gt; eu pulvinar vel, sodales vitae dui.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
