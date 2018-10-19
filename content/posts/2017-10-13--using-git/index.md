@@ -5,22 +5,46 @@ category: "hacktoberfest"
 author: wwcodepdx
 ---
 
-![unsplash.com](./photo-1451324119451-db0ac857463c.jpg)
+## Git
+Git is one of the best version controlling system in this world. It helps us to track and maintain anything you want based on versions . Mostly it is used by the code developers to maintain different versions of their work. It tracks all your work based on something called **commit-id** which is nothing but a randomly generated hash value.
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur [adipiscing](/i-am-so-clever/) elit. Proin bibendum ullamcorper rutrum.
+With Git you can create a repository(repository is something where we store our code and git helps us to maintain all the history with a possibility to change our code easily) anywhere and just install git and start using it for easy versioning of your code.
 
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+Lets start with some basic commands.
 
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
+Step 1: Install git in your workstation
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+Step 2: Create a directory and go inside the directory 
 
-Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+  type command **git init** 
+  
+  it will create a new git repository
 
-### Aenean bibendum iaculis mi, nec blandit lacus interdum vitae
+Step 3: Now if you want to add a file to your repo just create a file inside the same directory, add some text and save it
+ 
+  type command **git add file-name** 
+  
+  it will add your file to something called staging and not yet committed to your repo
+  
+Step 4: Once you have added the file now you have to commit your file to your repo 
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  type command **git commit -m "your message"** 
+  
+  this will commit your changes to your local repo
+  
+Step 5: Now if you want to see your commit 
 
-### Donec hendrerit laoreet risus eget adipiscing.
+  type the command **git log **
+   
+  this will show your commit history with the commit id assigned to that commit
 
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Step 6: Now if you want to push the code to any remote repository you can do that by setting the remote and pushing the code           to that repo.
+
+  type the command **git remote add origin repo-url**
+  
+  this will set the remote repo for your code.
+  
+  type the command **git push origin master** 
+  
+  this will push your changes to the remote repo 
+  
