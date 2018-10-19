@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          Welcome to Hacktoberfest 2018!
+          Welcom to Hackotobuurfest 2018!
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />

@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Women Who Code Portland",
-  headerSubTitle: "In partnership with Mozilla and InVision",
+  headerSubTitle: "In partnership with Mozilla",
 
   /* manifest.json */
   manifestName: "wwcodepdx",

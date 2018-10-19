@@ -1,7 +1,7 @@
 ---
 title: Getting Started with your Dev Environment
 category: "hacktoberfest"
-cover: photo-1507915600431-5292809c5ab7.jpg
+cover: photo-1500531279542-fc8490c8ea4d.jpg
 author: wwcodepdx
 ---
 
