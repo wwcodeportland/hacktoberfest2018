@@ -10,7 +10,8 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          Welcom to Hackotobuurfest 2018!
+          Welcome to
+          <span>Hacktoberfest 2018!</span>
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
@@ -41,6 +42,10 @@ const Hero = props => {
           color: ${theme.hero.h1.color};
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
+
+          span {
+            display: block;
+          }
 
           :global(strong) {
             position: relative;
