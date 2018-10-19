@@ -2,7 +2,7 @@
 title: Getting Started with This Repo
 category: "hacktoberfest"
 cover: photo-1489824904134-891ab64532f1.jpg
-author: greg lobinski
+author: wwcodepdx
 ---
 
 If you'd like to start practicing in this repo before moving onto another repo, please do so! Here is a basic guide to setting up this project and starting to contribute:
