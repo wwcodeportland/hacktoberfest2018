@@ -111,7 +111,7 @@ class Header extends React.Component {
           }
 
           .logo {
-            border-radius: 65% 75%;
+            border-radius: 35px;
             border: 1px solid #eee;
             display: inline-block;
             height: 44px;
@@ -119,6 +119,7 @@ class Header extends React.Component {
             overflow: hidden;
             width: 44px;
             transition: all 0.5s;
+            background-color: white;
 
             .homepage & {
               height: 60px;
@@ -126,6 +127,8 @@ class Header extends React.Component {
             }
 
             img {
+              margin-top: 15%;
+              margin-left: -1px;
               width: 100%;
             }
           }
@@ -187,6 +190,10 @@ class Header extends React.Component {
                 top: 0;
                 width: 100%;
                 z-index: 1;
+
+                img {
+                  margin-top: 6px;
+                }
 
                 h1 {
                   margin: ${theme.space.stack.xxs};
