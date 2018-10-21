@@ -24,7 +24,7 @@ There are also many major companies participating in Hacktoberfest, that have is
             <td>Docs, Most Languages</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/gatsbyjs/gatsby/issues">Gastby</a></td>
+            <td><a href="https://github.com/gatsbyjs/gatsby/issues">Gatsby</a></td>
             <td>Docs, React, Node</td>
         </tr>
         <tr>
