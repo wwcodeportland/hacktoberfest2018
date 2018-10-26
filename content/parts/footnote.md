@@ -2,6 +2,10 @@
 title: footnote
 ---
 
-* it's a demo site of the [gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog)
-* photos by [unsplash.com](https://unsplash.com)
-* graphic by [pixabay.com](https://pixabay.com)
+  [Instagram](https://www.instagram.com/womenwhocode/?hl=en)
+* [Facebook](https://www.facebook.com/womenwhocode/)
+* [Github](https://github.com/WomenWhoCode)
+* [Twitter](https://twitter.com/WomenWhoCode)
+* [Meetup](https://www.meetup.com/topics/women-who-code/)
+* [LinkedIn](https://www.linkedin.com/company/women-who-code/)
+* [Youtube](https://www.youtube.com/user/WomenWhoCode)
