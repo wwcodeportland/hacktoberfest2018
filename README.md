@@ -12,7 +12,7 @@ Thanks for participating in Hacktoberfest!
 
 You may be feeling overwhelmed and wondering where to get started, so let's start with the basics:
 
-### Sign Up!
+### Sign Up here!
 
 Sign up for Hacktoberfest using your GitHub account here: https://hacktoberfest.digitalocean.com/ None of your PRs will count towards your total until you are registered, so make sure that you do that first.
 
@@ -28,7 +28,7 @@ Or, play this game by Twilio!: https://www.twilio.com/quest/mission/28
 
 ### :zap: Where to start:
 
-You're welcome to find an issue in this repo, and submit a Pull Request if you'd like to practice your git workflow, or just interacting with open source in a more low risk way.
+You're welcome to find an issue in this reposetory, and submit a Pull Request if you'd like to practice your git workflow, or just interacting with open source in a more low risk way.
 
 There are also many major companies participating in Hacktoberfest, that have issues marked for first time contributors. You can find some of these below:
 
